@@ -1,0 +1,39 @@
+{
+  "name": "Bobby The Cat",
+  "symbol": "BTc",
+  "description": "Meme token charity untuk membangun putra-putri bangsa. Terinspirasi dari Bobby Kertanegara, kucing Presiden RI.",
+  "image": "https://bobbythecat.io/assets/img/logosc.png",
+  "external_url": "https://bobbythecat.io",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Jenis", "value": "Token SPL" },
+    { "trait_type": "Tujuan", "value": "Charity, Blockchain Agregator, & NFT" },
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Supply", "value": "8.888.888.888" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://bobbythecat.io/assets/img/logosc.png",
+        "type": "image/png"
+      }
+    ],
+    "social": {
+      "website": "https://bobbythecat.io",
+      "telegram": "https://t.me/BobbyTheCat_OG",
+      "twitter": "https://x.com/Bobby_Ktngr",
+      "instagram": "https://www.instagram.com/bobbythecatmeme",
+      "medium": "https://medium.com/@official_863",
+      "tiktok": "https://www.tiktok.com/@bobbythecatmeme",
+      "whatsapp": "https://www.whatsapp.com/channel/0029VbBBfqn6RGJBLO5LpV0j"
+    }
+  },
+  "extensions": {
+    "project": "Bobby The Cat ($BTc)",
+    "version": "1.0",
+    "whitepaper": "https://bobbythecat.io/whitepaper.pdf",
+    "verified": true,
+    "source": "open"
+  }
+}
